@@ -36,22 +36,6 @@
             <asp:Label ID="lblDisplay" runat="server" Text="Label"></asp:Label>
             <br />
             <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
         </div>
     </form>
 </body>
